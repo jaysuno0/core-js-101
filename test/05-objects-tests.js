@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 /* eslint-disable array-bracket-spacing */
 const assert = require('assert');
 const tasks = require('../src/05-objects-tasks');
